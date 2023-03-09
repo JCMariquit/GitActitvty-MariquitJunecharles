@@ -16,3 +16,14 @@ def personal_details():
     print('╚═══════════════════════ ◣◥◤◢◣◥◤◆◥◤◢◣◥◤◢ ════════════════════════╝')
     
 personal_details()
+
+def personal_details():
+    print('╔═══════════════════════ ◤◢◣◥◤◢◣◆◢◣◥◤◢◣◥ ════════════════════════╗')
+    print('')
+    school = "               Marinduque State College"
+    CYS = "            BSIT 2C"
+    print("School: {}\nCourse/Year/Section: {}".format(school, CYS))
+    print('')
+    print('╚═══════════════════════ ◣◥◤◢◣◥◤◆◥◤◢◣◥◤◢ ════════════════════════╝')
+    
+personal_details()
